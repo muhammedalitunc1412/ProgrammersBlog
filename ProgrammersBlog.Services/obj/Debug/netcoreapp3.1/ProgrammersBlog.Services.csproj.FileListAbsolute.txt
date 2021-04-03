@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\netcoreapp3.1\ProgrammersBlog.Services.deps.json
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\netcoreapp3.1\ProgrammersBlog.Services.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\netcoreapp3.1\ProgrammersBlog.Services.pdb
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\netcoreapp3.1\ProgrammersBlog.Services.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\netcoreapp3.1\ProgrammersBlog.Services.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\netcoreapp3.1\ProgrammersBlog.Services.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\netcoreapp3.1\ProgrammersBlog.Services.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\netcoreapp3.1\ProgrammersBlog.Services.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\netcoreapp3.1\ProgrammersBlog.Services.pdb
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\netcoreapp3.1\ProgrammersBlog.Data.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\netcoreapp3.1\ProgrammersBlog.Entities.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\netcoreapp3.1\ProgrammersBlog.Shared.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\netcoreapp3.1\ProgrammersBlog.Data.pdb
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\netcoreapp3.1\ProgrammersBlog.Entities.pdb
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\netcoreapp3.1\ProgrammersBlog.Shared.pdb
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\netcoreapp3.1\ProgrammersBlog.Services.csproj.CopyComplete

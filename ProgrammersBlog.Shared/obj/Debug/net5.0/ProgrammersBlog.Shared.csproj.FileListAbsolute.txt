@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\net5.0\ProgrammersBlog.Shared.deps.json
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\net5.0\ProgrammersBlog.Shared.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\net5.0\ref\ProgrammersBlog.Shared.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\net5.0\ProgrammersBlog.Shared.pdb
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ProgrammersBlog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ProgrammersBlog.Shared.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ProgrammersBlog.Shared.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ProgrammersBlog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ProgrammersBlog.Shared.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ref\ProgrammersBlog.Shared.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ProgrammersBlog.Shared.pdb
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\net5.0\ProgrammersBlog.Shared.csprojAssemblyReference.cache

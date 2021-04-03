@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\netcoreapp3.1\ProgrammersBlog.Shared.deps.json
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\netcoreapp3.1\ProgrammersBlog.Shared.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\bin\Debug\netcoreapp3.1\ProgrammersBlog.Shared.pdb
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\netcoreapp3.1\ProgrammersBlog.Shared.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\netcoreapp3.1\ProgrammersBlog.Shared.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\netcoreapp3.1\ProgrammersBlog.Shared.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\netcoreapp3.1\ProgrammersBlog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\netcoreapp3.1\ProgrammersBlog.Shared.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Shared\obj\Debug\netcoreapp3.1\ProgrammersBlog.Shared.pdb

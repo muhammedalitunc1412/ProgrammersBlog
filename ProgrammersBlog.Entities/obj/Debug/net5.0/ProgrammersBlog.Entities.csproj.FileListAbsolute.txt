@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ProgrammersBlog.Entities.deps.json
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ProgrammersBlog.Entities.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ref\ProgrammersBlog.Entities.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ProgrammersBlog.Entities.pdb
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ProgrammersBlog.Shared.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\bin\Debug\net5.0\ProgrammersBlog.Shared.pdb
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ref\ProgrammersBlog.Entities.dll
+C:\Users\ASUS\Desktop\Projelerim\ProgrammersBlog\ProgrammersBlog.Entities\obj\Debug\net5.0\ProgrammersBlog.Entities.pdb
